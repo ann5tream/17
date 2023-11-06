@@ -98,8 +98,7 @@ https://linears-playback.astro.com.my/vsg/41X9Nnei3MqpBz-lbo-46WL0pS2SiljZ1jEDcg
 #EXTINF:-1 tvg-id="AstroPrima" ch-number="105" group-title="Home" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
-https://linears-playback.astro.com.my/vsg/410_H0GGIQN2GGURHge6cdPqTXw8Q2ZprzfbANpqgKI1Y=vlmk/dash-wv/jitp-linearwm/1000/default_ott.mpd
-
+https://linears-playback.astro.com.my/vsg/410_H0GGIQN2GGURHge6cdPmE8LSthIYNTIighgITnw04=UqS8/dash-wv/jitp-linearwm/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" ch-number="107" group-title="Home" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
