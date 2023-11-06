@@ -564,7 +564,9 @@ https://linears-playback.astro.com.my/vsg/41wrcK78u1-1DH2o1Bav1EwV3ydTqBbijB-qxE
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Home" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",Astro SuperSport 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-https://linears-playback.astro.com.my/vsg/41eH7ZwWZzlsEma_jxizMTHW3RPqYj-2ggG7AvOk3U9xA=00cq/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41eH7ZwWZzlsEma_jxizMTHSBd1whveo7YG4Y62aHdAeI=nTFc/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
+
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Home" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
